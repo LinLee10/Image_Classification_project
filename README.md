@@ -19,7 +19,6 @@ A convolutional neural network built in Google Colab to classify images into 10 
    from google.colab import drive
    drive.mount('/content/drive')
 ````
-![Confusion Matrix](assets/confusion_matrix.png)
 
 
 3. Run all cells to preprocess, train, and validate.
